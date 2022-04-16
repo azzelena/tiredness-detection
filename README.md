@@ -1,6 +1,5 @@
 # Распознование усталости водителя по видео
 
-### Flowchart: https://miro.com/welcomeonboard/7zrDuEPHzsW3HmF1va12QxKM90udQcATpIu2WMJpilQslp8qMpou4h3u1u6WhH3K
 
 <b>
 
